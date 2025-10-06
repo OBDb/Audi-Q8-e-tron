@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_APP_POS1: 0.751
   response: 7E80562206102EF
+- expected_values:
+    AUDI_APP_POS1: 1.014
+  response: 7E80562206103F6
+- expected_values:
+    AUDI_APP_POS1: 1.294
+  response: 7E805622061050E
