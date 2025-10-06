@@ -2,10 +2,10 @@ command_id: 710.77A.222A07
 test_cases:
 - expected_values:
     AUDI_SSB_V: 69.54
-  response: 77A05622A072840
+  response: 77A05622A0723BB
 - expected_values:
     AUDI_SSB_V: 69.54
-  response: 77A05622A072A3F
+  response: 77A05622A072832
 - expected_values:
     AUDI_SSB_V: 69.54
   response: 77A05622A072AFE

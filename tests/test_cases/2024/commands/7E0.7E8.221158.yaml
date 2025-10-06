@@ -1,29 +1,11 @@
 command_id: 7E0.7E8.221158
 test_cases:
 - expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1073
-  response: 7E805621158D616
+    AUDI_MAX_DCHA_CUR_2: -1093
+  response: 7E805621158D54E
 - expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1072
-  response: 7E805621158D620
+    AUDI_MAX_DCHA_CUR_2: -1078
+  response: 7E805621158D5E4
 - expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1070
-  response: 7E805621158D634
-- expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1069
-  response: 7E805621158D63E
-- expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1068
-  response: 7E805621158D648
-- expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1067
-  response: 7E805621158D652
-- expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1065
-  response: 7E805621158D666
-- expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1064
-  response: 7E805621158D670
-- expected_values:
-    AUDI_MAX_DCHA_CUR_2: -1063
-  response: 7E805621158D67A
+    AUDI_MAX_DCHA_CUR_2: -1075
+  response: 7E805621158D602
