@@ -1,6 +1,9 @@
 command_id: 710.77A.222AB2|fc=1
 test_cases:
 - expected_values:
+    AUDI_HVBAT_CAP: 27250
+  response: 77A07622AB202210400
+- expected_values:
     AUDI_HVBAT_CAP: 27450
   response: 77A07622AB202250400
 - expected_values:

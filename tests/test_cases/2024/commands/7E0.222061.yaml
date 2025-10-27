@@ -1,14 +1,14 @@
-command_id: 7E0.7E8.222061
+command_id: 7E0.222061
 test_cases:
 - expected_values:
     AUDI_APP_POS1: 0.751
   response: 7E80562206102EF
 - expected_values:
-    AUDI_APP_POS1: 1.032
-  response: '7E8056220610408'
+    AUDI_APP_POS1: 1.025
+  response: '7E8056220610401'
 - expected_values:
-    AUDI_APP_POS1: 1.277
-  response: 7E80562206104FD
+    AUDI_APP_POS1: 1.279
+  response: 7E80562206104FF
 - expected_values:
     AUDI_APP_POS1: 2.251
   response: 7E80562206108CB
