@@ -2,7 +2,12 @@ references:
   - "https://en.wikipedia.org/wiki/Audi_Q8_e-tron"
 
 generations:
-  - name: "First Generation (Audi e-tron / Q8 e-tron)"
+  - name: "First Generation (Audi e-tron)"
     start_year: 2018
+    end_year: 2021
+    description: "The Audi e-tron is a battery electric mid-size luxury crossover SUV produced by Audi since 2018. The e-tron was unveiled as a concept car at the 2015 Frankfurt Motor Show and the final production version was revealed on September 17, 2018. It was first delivered in May 2019, making it Audi's first battery electric mass production car. The Sportback variant, featuring a coupe-style roof, entered production in early 2020. The original e-tron featured a 95 kWh battery (83.6 kWh usable) with 50 quattro, 55 quattro, and S quattro variants available in both SUV and Sportback body styles."
+
+  - name: "First Generation (2022 Facelift / Q8 e-tron)"
+    start_year: 2022
     end_year: 2025
-    description: "The Audi Q8 e-tron (formerly the Audi e-tron from 2018 to 2023) is a battery electric mid-size luxury crossover SUV produced by Audi since 2018. The e-tron was unveiled as a concept car at the 2015 Frankfurt Motor Show and the final production version was revealed on September 17, 2018. It was first delivered in May 2019, making it Audi's first battery electric mass production car. The Sportback variant, featuring a coupe-style roof, entered production in early 2020. In 2022, the vehicle underwent a significant facelift and was renamed to the Audi Q8 e-tron (with the performance version called SQ8 e-tron), offered in both regular and Sportback body styles. Key improvements in the facelifted Q8 e-tron include an updated design with a new enclosed Singleframe grille and revised lighting, increased battery capacity from 95 kWh to 114 kWh (106 kWh usable), and improved motor efficiency. The Q8 e-tron is available in multiple variants including 50, 55, and performance S/SQ8 versions. Production concluded in February 2025."
+    description: "In 2022, the vehicle underwent a significant facelift and was renamed to the Audi Q8 e-tron (with the performance version called SQ8 e-tron), offered in both regular and Sportback body styles. Key improvements in the facelifted Q8 e-tron include an updated design with a new enclosed Singleframe grille and revised lighting, increased battery capacity from 95 kWh to 114 kWh (106 kWh usable), and improved motor efficiency. The Q8 e-tron is available in multiple variants including 50, 55, and performance SQ8 versions. Production concluded in February 2025."
