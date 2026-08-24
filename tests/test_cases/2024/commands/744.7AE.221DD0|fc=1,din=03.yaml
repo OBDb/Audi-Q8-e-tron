@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     AUDI_CHRGR_SOC_DISP: 88.5
   response: 7AE04621DD0B1
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 98.5
+  response: 7AE04621DD0C5
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 100
+  response: 7AE04621DD0C8
