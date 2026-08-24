@@ -25,3 +25,8 @@ test_cases:
   response: |-
     77A100D622AB5016000
     77A2100016007FF0000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 437
+  response: |-
+    77A100D622AB501B500
+    77A210001B507FF0000
