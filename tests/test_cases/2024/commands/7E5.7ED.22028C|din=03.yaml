@@ -1,9 +1,9 @@
 command_id: 7E5.7ED.22028C|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_SOC: 47
-    AUDI_HVBAT_SOC_V2: 18.43137
-  response: 7ED0462028C2F
+    AUDI_BMS_SOC: 45
+    AUDI_HVBAT_SOC_V2: 17.64706
+  response: 7ED0462028C2D
 - expected_values:
     AUDI_BMS_SOC: 96
     AUDI_HVBAT_SOC_V2: 37.64706

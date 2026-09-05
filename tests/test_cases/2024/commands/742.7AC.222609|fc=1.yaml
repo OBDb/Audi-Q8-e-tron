@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     AUDI_PTC_OUTSIDE_T: 35
   response: 7AC04622609AA
+- expected_values:
+    AUDI_PTC_OUTSIDE_T: 36
+  response: 7AC04622609AC
+- expected_values:
+    AUDI_PTC_OUTSIDE_T: 38
+  response: 7AC04622609B0
