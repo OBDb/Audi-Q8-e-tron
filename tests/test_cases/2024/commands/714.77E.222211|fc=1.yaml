@@ -19,5 +19,11 @@ test_cases:
     AUDI_PQ35_CHG_AIR_P: 66.66667
   response: 77E04622211AA
 - expected_values:
+    AUDI_PQ35_CHG_AIR_P: 68.62745
+  response: 77E04622211AF
+- expected_values:
+    AUDI_PQ35_CHG_AIR_P: 69.01961
+  response: 77E04622211B0
+- expected_values:
     AUDI_PQ35_CHG_AIR_P: 100
   response: 77E04622211FF
