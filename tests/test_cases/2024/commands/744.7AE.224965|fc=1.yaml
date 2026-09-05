@@ -1,6 +1,11 @@
 command_id: 744.7AE.224965|fc=1
 test_cases:
 - expected_values:
+    AUDI_HVBAT_KWH_V2: 35.55
+  response: |-
+    7AE100D62496502C77F
+    7AE21F8011770030190
+- expected_values:
     AUDI_HVBAT_KWH_V2: 37.25
   response: |-
     7AE100D62496502E981
@@ -30,11 +35,6 @@ test_cases:
   response: |-
     7AE100D62496504547F
     7AE21D4011586048D8F
-- expected_values:
-    AUDI_HVBAT_KWH_V2: 60.6
-  response: |-
-    7AE100D62496504BC7F
-    7AE21F0011162051A79
 - expected_values:
     AUDI_HVBAT_KWH_V2: 61.35
   response: |-
