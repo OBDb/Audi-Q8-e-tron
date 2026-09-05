@@ -9,6 +9,14 @@ test_cases:
     AUDI_BMS_T_MAX_CELL: 63
   response: 7ED05621E0E833F
 - expected_values:
+    AUDI_BMS_T_MAX: 33
+    AUDI_BMS_T_MAX_CELL: 31
+  response: 7ED05621E0E851F
+- expected_values:
+    AUDI_BMS_T_MAX: 33
+    AUDI_BMS_T_MAX_CELL: 35
+  response: 7ED05621E0E8523
+- expected_values:
     AUDI_BMS_T_MAX: 35
     AUDI_BMS_T_MAX_CELL: 38
   response: 7ED05621E0E8726
