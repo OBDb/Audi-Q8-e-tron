@@ -1,29 +1,29 @@
 command_id: 7E5.7ED.22F45B|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 38.43137
+    Q8_E_TRON_BMS_SOC_HIRES: 38.43137
   response: 7ED0462F45B62
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 40
+    Q8_E_TRON_BMS_SOC_HIRES: 40
   response: 7ED0462F45B66
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 41.56863
+    Q8_E_TRON_BMS_SOC_HIRES: 41.56863
   response: 7ED0462F45B6A
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 46.27451
+    Q8_E_TRON_BMS_SOC_HIRES: 46.27451
   response: 7ED0462F45B76
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 52.15686
+    Q8_E_TRON_BMS_SOC_HIRES: 52.15686
   response: 7ED0462F45B85
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 54.11765
+    Q8_E_TRON_BMS_SOC_HIRES: 54.11765
   response: 7ED0462F45B8A
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 67.84314
+    Q8_E_TRON_BMS_SOC_HIRES: 67.84314
   response: 7ED0462F45BAD
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 88.62745
+    Q8_E_TRON_BMS_SOC_HIRES: 88.62745
   response: 7ED0462F45BE2
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 99.60784
+    Q8_E_TRON_BMS_SOC_HIRES: 99.60784
   response: 7ED0462F45BFE

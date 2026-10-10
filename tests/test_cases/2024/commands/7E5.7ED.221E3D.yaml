@@ -1,17 +1,17 @@
 command_id: 7E5.7ED.221E3D
 test_cases:
 - expected_values:
-    AUDI_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -200
   response: 7ED06621E3D01D047
 - expected_values:
-    AUDI_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -200
   response: 7ED06621E3D01F71B
 - expected_values:
-    AUDI_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -200
   response: 7ED06621E3D0202F1
 - expected_values:
-    AUDI_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -200
   response: 7ED06621E3D023000
 - expected_values:
-    AUDI_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -200
   response: 7ED06621E3D0263FE

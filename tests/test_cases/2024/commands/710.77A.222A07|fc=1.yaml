@@ -1,0 +1,14 @@
+command_id: 710.77A.222A07|fc=1
+test_cases:
+- expected_values:
+    Q8_E_TRON_TRON_BAT_V_2A07: 12.421
+  response: 77A05622A0720E5
+- expected_values:
+    Q8_E_TRON_TRON_BAT_V_2A07: 14.751
+  response: 77A05622A0729FF
+- expected_values:
+    Q8_E_TRON_TRON_BAT_V_2A07: 14.752
+  response: 77A05622A072A00
+- expected_values:
+    Q8_E_TRON_TRON_BAT_V_2A07: 15.408
+  response: 77A05622A072C90

@@ -1,29 +1,29 @@
 command_id: 710.77A.222AB2|fc=1
 test_cases:
 - expected_values:
-    AUDI_HVBAT_CAP: 27250
+    Q8_E_TRON_HVBAT_E_MAX: 27250
   response: 77A07622AB202210400
 - expected_values:
-    AUDI_HVBAT_CAP: 27450
+    Q8_E_TRON_HVBAT_E_MAX: 27450
   response: 77A07622AB202250400
 - expected_values:
-    AUDI_HVBAT_CAP: 27500
+    Q8_E_TRON_HVBAT_E_MAX: 27500
   response: 77A07622AB202260400
 - expected_values:
-    AUDI_HVBAT_CAP: 27550
+    Q8_E_TRON_HVBAT_E_MAX: 27550
   response: 77A07622AB202270400
 - expected_values:
-    AUDI_HVBAT_CAP: 30150
+    Q8_E_TRON_HVBAT_E_MAX: 30150
   response: 77A07622AB2025B0400
 - expected_values:
-    AUDI_HVBAT_CAP: 30800
+    Q8_E_TRON_HVBAT_E_MAX: 30800
   response: 77A07622AB202680400
 - expected_values:
-    AUDI_HVBAT_CAP: 30850
+    Q8_E_TRON_HVBAT_E_MAX: 30850
   response: 77A07622AB202690400
 - expected_values:
-    AUDI_HVBAT_CAP: 31650
+    Q8_E_TRON_HVBAT_E_MAX: 31650
   response: 77A07622AB202790400
 - expected_values:
-    AUDI_HVBAT_CAP: 31700
+    Q8_E_TRON_HVBAT_E_MAX: 31700
   response: 77A07622AB2027A0400

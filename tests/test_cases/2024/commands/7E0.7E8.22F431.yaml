@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    AUDI_CLR_DIST: 5480
+    Q8_E_TRON_TRON_CLR_DIST: 5480
   response: 7E80562F4311568
 - expected_values:
-    AUDI_CLR_DIST: 29439
+    Q8_E_TRON_TRON_CLR_DIST: 29439
   response: 7E80562F43172FF
 - expected_values:
-    AUDI_CLR_DIST: 29440
+    Q8_E_TRON_TRON_CLR_DIST: 29440
   response: 7E80562F4317300
 - expected_values:
-    AUDI_CLR_DIST: 29987
+    Q8_E_TRON_TRON_CLR_DIST: 29987
   response: 7E80562F4317523

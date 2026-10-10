@@ -1,29 +1,29 @@
 command_id: 7E5.7ED.225175|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 365.5
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 365.5
   response: 7ED056251750E47
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 366.7
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 366.7
   response: 7ED056251750E53
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 367.8
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 367.8
   response: 7ED056251750E5E
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 372.6
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 372.6
   response: 7ED056251750E8E
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 378.4
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 378.4
   response: 7ED056251750EC8
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 380.6
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 380.6
   response: 7ED056251750EDE
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 393.2
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 393.2
   response: 7ED056251750F5C
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 414.9
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 414.9
   response: 7ED056251751035
 - expected_values:
-    AUDI_BMS_V_DCHG_DYN_MIN: 418.9
+    Q8_E_TRON_BMS_V_DCHG_DYN_MIN: 418.9
   response: 7ED05625175105D
