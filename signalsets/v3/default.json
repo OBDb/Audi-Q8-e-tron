@@ -1445,13 +1445,13 @@
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E33"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
-    {"id": "Q8_E_TRON_BMS_CELL_V_MAX",     "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage max, value"},
-    {"id": "Q8_E_TRON_BMS_CELL_V_MAX_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage max, index"}
+    {"id": "Q8_E_TRON_BMS_CELL_V_MAX",     "path": "Battery", "fmt": {           "len": 16, "max": 65.535, "div": 1000, "unit": "volts"  }, "name": "Cell voltage max, value"},
+    {"id": "Q8_E_TRON_BMS_CELL_V_MAX_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "Cell voltage max, index"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E34"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
-    {"id": "Q8_E_TRON_BMS_CELL_V_MIN",     "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage min, value"},
-    {"id": "Q8_E_TRON_BMS_CELL_V_MIN_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage min, index"}
+    {"id": "Q8_E_TRON_BMS_CELL_V_MIN",     "path": "Battery", "fmt": {           "len": 16, "max": 65.535, "div": 1000, "unit": "volts"  }, "name": "Cell voltage min, value"},
+    {"id": "Q8_E_TRON_BMS_CELL_V_MIN_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "Cell voltage min, index"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "dbg": true, "cmd": {"22": "1E35"}, "freq": 5,
   "signals": [
