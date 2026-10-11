@@ -1,87 +1,87 @@
 command_id: 744.7AE.224965|fc=1
 test_cases:
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 34.5
+    Q8_E_TRON_HVBAT_KWH: 34.5
   response: |-
     7AE100D62496502B27D
     7AE214201177002EE90
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 35.55
+    Q8_E_TRON_HVBAT_KWH: 35.55
   response: |-
     7AE100D62496502C77F
     7AE21F8011770030190
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 37.25
+    Q8_E_TRON_HVBAT_KWH: 37.25
   response: |-
     7AE100D62496502E981
     7AE210A011770032290
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 37.95
+    Q8_E_TRON_HVBAT_KWH: 37.95
   response: |-
     7AE100D62496502F77E
     7AE219F011770032E91
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 42.8
+    Q8_E_TRON_HVBAT_KWH: 42.8
   response: |-
     7AE100D624965035880
     7AE2100000FA0038B95
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 43.2
+    Q8_E_TRON_HVBAT_KWH: 43.2
   response: |-
     7AE100D624965036086
     7AE21C101160803C07B
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 44.1
+    Q8_E_TRON_HVBAT_KWH: 44.1
   response: |-
     7AE100D62496503727B
     7AE218E0115FE03D27A
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 55.4
+    Q8_E_TRON_HVBAT_KWH: 55.4
   response: |-
     7AE100D62496504547F
     7AE21D4011586048D8F
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 61.35
+    Q8_E_TRON_HVBAT_KWH: 61.35
   response: |-
     7AE100D62496504CB80
     7AE216A0112F2051F84
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 63.85
+    Q8_E_TRON_HVBAT_KWH: 63.85
   response: |-
     7AE100D62496504FD8D
     7AE210001122A054F84
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 63.95
+    Q8_E_TRON_HVBAT_KWH: 63.95
   response: |-
     7AE100D62496504FF7F
     7AE21F301122A055184
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 64
+    Q8_E_TRON_HVBAT_KWH: 64
   response: |-
     7AE100D62496505007A
     7AE2176011220055384
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 69.6
+    Q8_E_TRON_HVBAT_KWH: 69.6
   response: |-
     7AE100D624965057081
     7AE210201100E05C585
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 69.8
+    Q8_E_TRON_HVBAT_KWH: 69.8
   response: |-
     7AE100D624965057479
     7AE21FE010FFA05C985
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 81.6
+    Q8_E_TRON_HVBAT_KWH: 81.6
   response: |-
     7AE100D62496506606D
     7AE210A010A5A06AD85
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 89.7
+    Q8_E_TRON_HVBAT_KWH: 89.7
   response: |-
     7AE100D624965070281
     7AE21D10105DC074684
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 92.8
+    Q8_E_TRON_HVBAT_KWH: 92.8
   response: |-
     7AE100D624965074080
     7AE21A50103CA078084

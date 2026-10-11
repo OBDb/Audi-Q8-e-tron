@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    AUDI_VPWR: 11.855
+    Q8_E_TRON_TRON_VPWR: 11.855
   response: 7E80562F4422E4F
 - expected_values:
-    AUDI_VPWR: 13.3
+    Q8_E_TRON_TRON_VPWR: 13.3
   response: 7E80562F44233F4
 - expected_values:
-    AUDI_VPWR: 13.828
+    Q8_E_TRON_TRON_VPWR: 13.828
   response: 7E80562F4423604
 - expected_values:
-    AUDI_VPWR: 14.628
+    Q8_E_TRON_TRON_VPWR: 14.628
   response: 7E80562F4423924

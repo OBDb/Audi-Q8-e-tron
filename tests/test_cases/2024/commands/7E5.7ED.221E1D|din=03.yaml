@@ -1,26 +1,26 @@
 command_id: 7E5.7ED.221E1D|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 37
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 37
   response: 7ED05621E1D0025
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 117
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 117
   response: 7ED05621E1D0075
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 347
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 347
   response: 7ED05621E1D015B
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 360
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 360
   response: 7ED05621E1D0168
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 372
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 372
   response: 7ED05621E1D0174
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 384
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 384
   response: 7ED05621E1D0180
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 387
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 387
   response: 7ED05621E1D0183
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 390
+    Q8_E_TRON_BMS_I_CHG_LIM_PRED: 390
   response: 7ED05621E1D0186

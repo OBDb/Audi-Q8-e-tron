@@ -1,26 +1,26 @@
 command_id: 7E5.7ED.221E0F|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_T_MIN: 29
-    AUDI_BMS_T_MIN_CELL: 72
+    Q8_E_TRON_BMS_T_MIN: 29
+    Q8_E_TRON_BMS_T_MIN_CELL: 72
   response: 7ED05621E0F8148
 - expected_values:
-    AUDI_BMS_T_MIN: 30
-    AUDI_BMS_T_MIN_CELL: 69
+    Q8_E_TRON_BMS_T_MIN: 30
+    Q8_E_TRON_BMS_T_MIN_CELL: 69
   response: 7ED05621E0F8245
 - expected_values:
-    AUDI_BMS_T_MIN: 30
-    AUDI_BMS_T_MIN_CELL: 71
+    Q8_E_TRON_BMS_T_MIN: 30
+    Q8_E_TRON_BMS_T_MIN_CELL: 71
   response: 7ED05621E0F8247
 - expected_values:
-    AUDI_BMS_T_MIN: 30
-    AUDI_BMS_T_MIN_CELL: 72
+    Q8_E_TRON_BMS_T_MIN: 30
+    Q8_E_TRON_BMS_T_MIN_CELL: 72
   response: 7ED05621E0F8248
 - expected_values:
-    AUDI_BMS_T_MIN: 31
-    AUDI_BMS_T_MIN_CELL: 60
+    Q8_E_TRON_BMS_T_MIN: 31
+    Q8_E_TRON_BMS_T_MIN_CELL: 60
   response: 7ED05621E0F833C
 - expected_values:
-    AUDI_BMS_T_MIN: 33
-    AUDI_BMS_T_MIN_CELL: 72
+    Q8_E_TRON_BMS_T_MIN: 33
+    Q8_E_TRON_BMS_T_MIN_CELL: 72
   response: 7ED05621E0F8548

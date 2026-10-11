@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.223DF8
 test_cases:
 - expected_values:
-    AUDI_ENG_MOTOR_RPM: 0
+    Q8_E_TRON_ENG_MOTOR_RPM: 0
   response: 7E805623DF80000
 - expected_values:
-    AUDI_ENG_MOTOR_RPM: 3961
+    Q8_E_TRON_ENG_MOTOR_RPM: 3961
   response: 7E805623DF81EF2
 - expected_values:
-    AUDI_ENG_MOTOR_RPM: 5038
+    Q8_E_TRON_ENG_MOTOR_RPM: 5038
   response: 7E805623DF8275C

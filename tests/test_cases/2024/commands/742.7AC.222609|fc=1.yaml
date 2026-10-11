@@ -1,8 +1,8 @@
 command_id: 742.7AC.222609|fc=1
 test_cases:
 - expected_values:
-    AUDI_PTC_OUTSIDE_T: 24
+    Q8_E_TRON_PTC_OUTSIDE_T: 24
   response: 7AC0462260994
 - expected_values:
-    AUDI_PTC_OUTSIDE_T: 38
+    Q8_E_TRON_PTC_OUTSIDE_T: 38
   response: 7AC04622609B0

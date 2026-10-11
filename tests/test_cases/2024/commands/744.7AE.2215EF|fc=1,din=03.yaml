@@ -1,11 +1,11 @@
 command_id: 744.7AE.2215EF|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 119722
+    Q8_E_TRON_CHRGR_E_TOTAL: 119722
   response: 7AE076215EF0001D3AA
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 120173
+    Q8_E_TRON_CHRGR_E_TOTAL: 120173
   response: 7AE076215EF0001D56D
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 121241
+    Q8_E_TRON_CHRGR_E_TOTAL: 121241
   response: 7AE076215EF0001D999

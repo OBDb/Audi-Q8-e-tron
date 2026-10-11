@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.2251E0
 test_cases:
 - expected_values:
-    AUDI_HVBAT_SOH: 89.027
+    Q8_E_TRON_HVBAT_SOH: 89.027
   response: 7ED056251E03A0F
 - expected_values:
-    AUDI_HVBAT_SOH: 6524
+    Q8_E_TRON_HVBAT_SOH: 6524
   response: 7ED056251E0FFFE
