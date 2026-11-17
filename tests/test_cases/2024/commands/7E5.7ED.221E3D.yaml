@@ -1,17 +1,17 @@
 command_id: 7E5.7ED.221E3D
 test_cases:
 - expected_values:
-    Q8_E_TRON_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -311.45
   response: 7ED06621E3D01D047
 - expected_values:
-    Q8_E_TRON_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -212.05
   response: 7ED06621E3D01F71B
 - expected_values:
-    Q8_E_TRON_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -181.75
   response: 7ED06621E3D0202F1
 - expected_values:
-    Q8_E_TRON_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: -66.4
   response: 7ED06621E3D023000
 - expected_values:
-    Q8_E_TRON_HVBAT_CURRENT: -200
+    Q8_E_TRON_HVBAT_CURRENT: 66.7
   response: 7ED06621E3D0263FE

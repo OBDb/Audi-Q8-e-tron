@@ -1446,12 +1446,12 @@
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E33"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "Q8_E_TRON_BMS_CELL_V_MAX",     "path": "Battery", "fmt": {           "len": 16, "max": 65.535, "div": 1000, "unit": "volts"  }, "name": "Cell voltage max, value"},
-    {"id": "Q8_E_TRON_BMS_CELL_V_MAX_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "Cell voltage max, index"}
+    {"id": "Q8_E_TRON_BMS_CELL_V_MAX_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,               "unit": "scalar" }, "name": "Cell voltage max, index"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E34"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "Q8_E_TRON_BMS_CELL_V_MIN",     "path": "Battery", "fmt": {           "len": 16, "max": 65.535, "div": 1000, "unit": "volts"  }, "name": "Cell voltage min, value"},
-    {"id": "Q8_E_TRON_BMS_CELL_V_MIN_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "Cell voltage min, index"}
+    {"id": "Q8_E_TRON_BMS_CELL_V_MIN_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,               "unit": "scalar" }, "name": "Cell voltage min, index"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "dbg": true, "cmd": {"22": "1E35"}, "freq": 5,
   "signals": [
@@ -1475,7 +1475,7 @@
   ]},
 { "hdr": "7E5", "rax": "7ED", "cmd": {"22": "1E3D"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
-    {"id": "Q8_E_TRON_HVBAT_CURRENT", "path": "Battery", "fmt": { "len": 16, "max": 200, "min": -200, "div": 4, "add": -511, "unit": "amps" }, "name": "HV battery current", "suggestedMetric": "tractionBatteryCurrent"}
+    {"id": "Q8_E_TRON_HVBAT_CURRENT", "path": "Battery", "fmt": { "len": 24, "max": 1500, "min": -1500, "div": 100, "add": -1500, "unit": "amps" }, "name": "HV battery current", "suggestedMetric": "tractionBatteryCurrent"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "dbg": true, "cmd": {"22": "1E40"}, "freq": 30,
   "signals": [
@@ -1975,7 +1975,7 @@
   ]},
 { "hdr": "7E5", "rax": "7ED", "cmd": {"22": "51E0"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
-    {"id": "Q8_E_TRON_HVBAT_SOH", "path": "Battery", "fmt": { "len": 16, "max": 6524, "min": -1798.574, "mul": 0.127, "add": -1798.574, "unit": "percent" }, "name": "HV battery health", "suggestedMetric": "stateOfHealth"}
+    {"id": "Q8_E_TRON_HVBAT_SOH", "path": "Battery", "fmt": { "len": 16, "max": 6524, "min": -1798.574, "mul": 0.127, "add": -1798.574, "nullmax": 6524, "unit": "percent" }, "name": "HV battery health", "suggestedMetric": "stateOfHealth"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "dbg": true, "cmd": {"22": "5200"}, "freq": 3600,
   "signals": [
